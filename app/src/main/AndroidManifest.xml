@@ -19,6 +19,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AntonimActivity" />
+        <activity android:name=".SinonimActivity" />
+        <activity android:name=".AwalanMen" />
+        <activity android:name=".AwalanBer" />
+        <activity android:name=".AwalanDi" />
+        <activity android:name=".AwalanPen" />
+        <activity android:name=".AwalanTer"></activity>
     </application>
 
 </manifest>

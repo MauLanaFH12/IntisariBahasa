@@ -8,31 +8,32 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.Sinonim;
+
 /**
  * Created by MaulanaFH on 4/8/2017.
  */
 
-public class AntonimFragment extends Fragment {
+public class SinonimFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View rootView = inflater.inflate(R.layout.fragment_home, container, false);
-        Button button = (Button) rootView.findViewById(R.id.btantonim);
+        View rootView = inflater.inflate(R.layout.fragment_import, container, false);
+        Button button = (Button) rootView.findViewById(R.id.btsinonim);
         button.setOnClickListener(new View.OnClickListener(){
 
             @Override
             public void onClick(View v) {
-                Antonim();
+                Sinonim();
             }
         });
         return rootView;
     }
-    public void Antonim() {
-        Intent intent = new Intent(getActivity(), AntonimActivity.class);
+    public void Sinonim() {
+        Intent intent = new Intent(getActivity(), SinonimActivity.class);
         startActivity(intent);
 
     }
 }
-

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="antonim">
+        <item>Abadi X Fana antonim         </item>
+        <item>Abdi X Majikan               </item>
+        <item>Abolisi X Pemberatan         </item>
+        <item>Absen X Hadir                </item>
+        <item>Abstrak X Konkrit            </item>
+        <item>Absurd X Rasional            </item>
+        <item>Aktual X Basi                </item>
+        <item>Afirmatif X Negatif          </item>
+        <item>Akrab X Tak kenal            </item>
+        <item>Akurat X Meleset             </item>
+        <item>Akut X Ringan                </item>
+        <item>Alam fana X Alam baka        </item>
+        <item>Amatir X Ahli                </item>
+        <item>Anomali X Normal             </item>
+        <item>Antagonis X Protagonis       </item>
+        <item>Antagonis X Searah           </item>
+        <item>Antipati X Simpati           </item>
+        <item>Antitesis X Tesis            </item>
+        <item>Apatis X Aktif               </item>
+        <item>Apex X Zenit                 </item>
+        <item>Arbitrer X Esensial          </item>
+        <item>Artika X Antartika           </item>
+        <item>Asketisme X Hedonisme        </item>
+        <item>Asli X Duplikat              </item>
+        <item>Asli X Palsu                 </item>
+        <item>Autentik X Palsu             </item>
+        <item>Beraneka X Semacam antonim   </item>
+        <item>Berbeda X Sesuai             </item>
+        <item>Berhasil X Gagal             </item>
+        <item>Berongga X Rapat             </item>
+        <item>Berpihak X Netral            </item>
+        <item>Berselang-seling X Monoton   </item>
+        <item>Bersimbah X Kering           </item>
+        <item>Berubah X Konstan            </item>
+        <item>Bhineka X Tunggal            </item>
+        <item>Bonafid X Marjinal           </item>
+        <item>Bongsor X Kerdil             </item>
+        <item>Boros X Hemat                </item>
+        <item>Botani X Nabati              </item>
+        <item>Brilian X Dungu              </item>
+        <item>Cacat X Normal antonim       </item>
+        <item>Canggih X Ketinggalan zaman  </item>
+        <item>Cepat X Lambat               </item>
+        <item>Deduksi X Induksi antonim    </item>
+        <item>Defertilisasi X Pemupukan    </item>
+        <item>Degenerasi X Kemajuan        </item>
+        <item>Delusi X Nyata               </item>
+        <item>Dependen X Independen        </item>
+        <item>Depresi X Resesi             </item>
+        <item>Destruktif X Konstruktif     </item>
+        <item>Dialog X Monolog             </item>
+        <item>Diferensiasi X Ekuivalensi   </item>
+        <item>Dinamis X Statis             </item>
+        <item>Diskursus X Dogma            </item>
+        <item>Distansi X Densiti           </item>
+        <item>Dualisme X Padu              </item>
+        <item>Dungu X Brilian              </item>
+        <item>Eklektik X Gradul antonim    </item>
+        <item>Ekspresi X Impresi           </item>
+        <item>Ekspresif X Pasif            </item>
+        <item>Eksternal X Internal         </item>
+        <item>Ekstrinsik X Internal        </item>
+        <item>Elastis X Kaku               </item>
+        <item>Elektik X Tak pilih-pilih    </item>
+        <item>Elusif X Canggih             </item>
+        <item>Elusif X Mudah dimengerti    </item>
+        <item>Empati X Tidak peduli        </item>
+        <item>Epigon X Maestro             </item>
+        <item>Esoteris X Terbuka           </item>
+        <item>Evaporasi X Kondensasi       </item>
+        <item>Evolusi X Revolusi           </item>
+        <item>Fakta X Fiksi                </item>
+        <item>Feminim X Maskulin           </item>
+        <item>Fiksi X Nonfiksi             </item>
+        <item>Fiktif X Fakta               </item>
+        <item>Fisik X Mental               </item>
+        <item>Frontal X Gradual            </item>
+        <item>Gagal X Berhasil             </item>
+        <item>Gamang X Berani              </item>
+        <item>Gara-gara X Akibat           </item>
+        <item>Gasal X Genap                </item>
+        <item>Harmoni X Sumbang            </item>
+        <item>Hayati X Baka                </item>
+        <item>Hayati X Mati                </item>
+        <item>Hemat X Boros                </item>
+        <item>Higienis X Kotor             </item>
+        <item>Hiperbola X Apa adanya       </item>
+        <item>Holistik X Monistik          </item>
+        <item>Idealisme X Kompromi         </item>
+        <item>Illegal X Sah                </item>
+        <item>Imigrasi X Emigrasi          </item>
+        <item>Impresi X Ekspresi           </item>
+        <item>Individual X Kolektif        </item>
+        <item>Induksi X Reduksi            </item>
+        <item>Inferior X Superior          </item>
+        <item>Inflasi X Deflasi            </item>
+        <item>Insomnia X Nyenyak           </item>
+        <item>Internal X Eksternal         </item>
+        <item>Introyeksi X Proyeksi        </item>
+        <item>Jahat X Baik                 </item>
+        <item>Jawab X Tanya                </item>
+        <item>Jinak X Buas                 </item>
+        <item>Jumbo X Kecil                </item>
+        <item>Kakek X Cucu                 </item>
+        <item>Kaleidoskop X Seragam        </item>
+        <item>Kandang X Tandang            </item>
+        <item>Kapabel X Bodoh              </item>
+        <item>Kapitalisme X Sosialisme anto</item>
+        <item>Kebal X Mempan               </item>
+        <item>Kecil X Besar                </item>
+        <item>Kedaluwarsa X Baru           </item>
+        <item>Kekal X Fana                 </item>
+        <item>Kekang X Bebas               </item>
+        <item>Kendala X Pendukung          </item>
+        <item>Kohesi X Adhesi              </item>
+        <item>Kolektif X Individual        </item>
+        <item>Kompatibel X Kaku            </item>
+        <item>Konduktor X Penghambat       </item>
+        <item>Konklusi X Uraian            </item>
+        <item>Konklusif X Elusif           </item>
+        <item>Konrol X Acuh                </item>
+        <item>Konservasi X Ekploitasi      </item>
+        <item>Konstan X Berubah-ubah       </item>
+        <item>Konsumen X Penghasil         </item>
+        <item>Kontan X Hutang              </item>
+        <item>Kontiniu X Terputus          </item>
+        <item>Kontra X Setuju              </item>
+        <item>Kontradiksi X Konvergensi    </item>
+        <item>Konveks X Cekung/konkaf      </item>
+        <item>Kredit X Pemasukan           </item>
+        <item>Krisis X Stabil              </item>
+        <item>Krusial X Sepele             </item>
+        <item>Kualitas X Kuantitas         </item>
+        <item>Kurus X Tambun               </item>
+        <item>Labil X Stabil               </item>
+        <item>Lambat X Cepat               </item>
+        <item>Lancar X Macet               </item>
+        <item>Lancung X Asli               </item>
+        <item>Langit X Bumi                </item>
+        <item>Las X Bubut                  </item>
+        <item>Liberal X Pembatasan         </item>
+        <item>Liberalisme X Fundamentalisme</item>
+        <item>88 Kompilasi Soal-soal Aseli </item>
+        <item>Longgar X Sempit             </item>
+        <item>Makar X Jujur                </item>
+        <item>Makar X Setia                </item>
+        <item>Mandiri X Bergantung         </item>
+        <item>Mandiri X Dependen           </item>
+        <item>Marah X Senang               </item>
+        <item>Maya X Nyata                 </item>
+        <item>Merana X Senang              </item>
+        <item>Merdeka X Vasal              </item>
+        <item>Metafisika X Nyata           </item>
+        <item>Metodis X Amburadul          </item>
+        <item>Minor X Mayor                </item>
+        <item>Mistis X Realis              </item>
+        <item>Mitos X Fakta                </item>
+        <item>Mobilitas X Keajegan         </item>
+        <item>Modern X Kuno                </item>
+        <item>Modernisasi X Tradisional    </item>
+        <item>Monogami X Poligami          </item>
+        <item>Monoton X Berubah-ubah       </item>
+        <item>Moral X Amoral               </item>
+        <item>Mufakat X Tidak setuju       </item>
+        <item>Nadir X Kosong               </item>
+        <item>Negasi X Konfirmasi          </item>
+        <item>Nekat X Takut                </item>
+        <item>Netral X Berpihak            </item>
+        <item>Nirwana X Dunia              </item>
+        <item>Nisbi X Mutlak               </item>
+        <item>Nomadik X Menetap            </item>
+        <item>Ofensif X Bertahan           </item>
+        <item>Oponen X Eksponen            </item>
+        <item>Orator X Pendengar           </item>
+        <item>Orisinil X Plagiat           </item>
+        <item>Otokratis X Demokratis       </item>
+        <item>Otoriter X Demokrasi         </item>
+        <item>Out put X Input              </item>
+        <item>Padan X Bukan bandingan      </item>
+        <item>Padanan X Pertidaksamaan     </item>
+        <item>Pakar X Awam                 </item>
+        <item>Pancarona X Seragam          </item>
+        <item>Pandai X Bodoh               </item>
+        <item>Panjang lebar X Ringkas      </item>
+        <item>Pasca X Pra                  </item>
+        <item>Pejal X Berongga             </item>
+        <item>Pejuang X Pengkhianat        </item>
+        <item>Pembangun X Destruktif       </item>
+        <item>Pemberani X Penakut          </item>
+        <item>Penambahan X Eliminasi       </item>
+        <item>Penting X Remeh              </item>
+        <item>Percaya diri X Rendah diri   </item>
+        <item>Perintis X Pewaris           </item>
+        <item>Perkasa X Lemah              </item>
+        <item>Pertahanan X Serangan        </item>
+        <item>Planning X Tak terencana     </item>
+        <item>Plural X Tunggal             </item>
+        <item>Plus X Minus                 </item>
+        <item>Polemik X Rukun              </item>
+        <item>Poliandri X Monogami         </item>
+        <item>Positif X Negatif            </item>
+        <item>Positif X Ragu-ragu          </item>
+        <item>Preambul X Penutup           </item>
+        <item>Prefiks X Akhiran            </item>
+        <item>Pro X Kontra                 </item>
+        <item>Professional X Amatir        </item>
+        <item>Progresif X Regresif         </item>
+        <item>Prolog X Epilog              </item>
+        <item>Prominen X Biasa             </item>
+        <item>Proporsional X Norak         </item>
+        <item>Proposisi X Reaksi           </item>
+        <item>Raksasa X Kerdil             </item>
+        <item>Ramai X Sepi                 </item>
+        <item>Ramalan X Pasti              </item>
+        <item>Rasional X Irrasional        </item>
+        <item>Rasionalisme X Empirisme     </item>
+        <item>Regresif X Progresif         </item>
+        <item>Remeh X Penting              </item>
+        <item>Remisi X Penambahan          </item>
+        <item>hukuman                      </item>
+        <item>Revolusi X Evolusi           </item>
+        <item>Ritel X Grosir               </item>
+        <item>Rivalitas X Persesuaian      </item>
+        <item>Rutin X Jarang               </item>
+        <item>Salaf X Mutakhir             </item>
+        <item>Sampling X Random            </item>
+        <item>Sederhana X Canggih          </item>
+        <item>Sekarang X Kemarin           </item>
+        <item>Sekuler X Keagamaan          </item>
+        <item>Sekulerisme X Spiritualisme  </item>
+        <item>Senang X Merana              </item>
+        <item>Senior X Junior              </item>
+        <item>Separasi X Penyatuan         </item>
+        <item>Sesuai X Berbeda             </item>
+        <item>Setem X Sumbang              </item>
+        <item>Siau X Mendidih              </item>
+        <item>Simpati X Antipati           </item>
+        <item>Sinergi X Dualistik          </item>
+        <item>Sinkron X Sumbang            </item>
+        <item>Sipil X Militer              </item>
+        <item>Skeptis X Yakin              </item>
+        <item>Soliter X Individual         </item>
+        <item>Sporadis X Jarang            </item>
+        <item>Stabil X Labil               </item>
+        <item>Statis X Dinamis             </item>
+        <item>Subur X Tandus               </item>
+        <item>Sumbang X Tepat              </item>
+        <item>Takzim X Lancang             </item>
+        <item>Tambun X Kurus               </item>
+        <item>Tawa X Tangis                </item>
+        <item>Terapung X Tenggelam         </item>
+        <item>Teratur X Kacau              </item>
+        <item>Terjamin X Tak tentu         </item>
+        <item>Terkatung X Terbenam         </item>
+        <item>Terputus X Kontinu           </item>
+        <item>Tetiron X Asli               </item>
+        <item>Tidak berdaya X Sinergi      </item>
+        <item>Tidak Peduli X Empati        </item>
+        <item>Tinggi X Rendah              </item>
+        <item>Transedensi X Imanesi        </item>
+        <item>Tunggal X Heterogen          </item>
+        <item>Universal X Parsial          </item>
+        <item>Vademikum X Kamus besar      </item>
+        <item>Valuable X Tidak berharga    </item>
+        <item>Vassal X Merdeka             </item>
+        <item>Vektor X Skalar              </item>
+        <item>Vertikal X Horisontal        </item>
+        <item>Virulen X Baik               </item>
+        <item>Vokal X Pendiam              </item>
+        <item>Wreda X Muda                 </item>
+    </string-array>
+    <string-array name="sinonim">
+        <item>Abrasi = Pengikisan</item>
+        <item>Absah = Sah</item>
+        <item>Absolut = Mutlak</item>
+        <item>Absurd = Janggal</item>
+        <item>Acum = Rujukan</item>
+        <item> Ad interim = Sementara</item>
+        <item> Adjektiva = Kata sifat</item>
+        <item>Afeksi = Kasih sayang</item>
+        <item>Agresi = Serangan</item>
+        <item>Agunan = Jaminan</item>
+        <item> Ahli = Pakar</item>
+        <item>Akselerasi = Percepatan</item>
+        <item>Akurat = Seksama</item>
+        <item>Almanak = Penanggalan</item>
+        <item>Ambiguitas = Bermakna ganda</item>
+        <item>Andal = Tangguh</item>
+        <item>Anemia = Kurang darah</item>
+        <item>Anggaran = Aturan</item>
+        <item>Anjung = Panggung</item>
+        <item>Antagonis = Berlawanan</item>
+        <item>Anulir = Abolisi</item>
+        <item>Aplikasi = Pelaksanaan</item>
+        <item>Arogan = Sombong</item>
+        <item>Artis = Seniman</item>
+        <item>Asa = Harapan</item>
+        <item>Asterik = Tanda bintang</item>
+        <item>Asumsi = Anggapan</item>
+        <item>Bahari = Laut</item>
+        <item>Bahtera = Perahu</item>
+        <item>Bala = Bencana</item>
+        <item>Bandela = Peti kemas</item>
+        <item>Barbar = Tidak beradab</item>
+        <item>Berdikari = Mandiri</item>
+        <item>Bergaul = Berteman</item>
+        <item>Berongsang = Marah-marah</item>
+        <item>Berpretensi = Prasangka</item>
+        <item>Bhineka = Berbeda-beda</item>
+        <item>Bicu = Dongkrak</item>
+        <item>Biologi = Hayati</item>
+        <item>Bisa = Dapat</item>
+        <item>Boga = Makanan kenikmatan</item>
+        <item>Bonafide = Dapat dipercaya</item>
+        <item>Bromocorah = Residivis</item>
+        <item>Bubut = Cabut</item>
+        <item>Bukti diri = Identitas</item>
+        <item>Bungalow = Pesanggrahan</item>
+        <item>Bura = Sembur</item>
+        <item>Burkak = Cadar</item>
+        <item>Centeng = Body guard</item>
+        <item>Citra = Gambaran</item>
+        <item>Copyright = Hak cipta</item>
+        <item>Dampak = Akibat</item>
+        <item>Darma = Pengabdian</item>
+        <item>Daur = Siklus</item>
+        <item>Deduksi = Konklusi</item>
+        <item>Defleksi = Penyimpangan</item>
+        <item>Dehidrasi = Kehilangan cairan tubuh</item>
+        <item>Dekade = Dasa warsa</item>
+        <item>Dekadensi = Kemerosotan moral</item>
+        <item>Delusi = Ilusi</item>
+        <item>Demagog = Tiran</item>
+        <item>Demisioner = Habis masa jabatan</item>
+        <item>Deportasi = Pembuangan ke luar negeri</item>
+        <item>Derivasi = Afiksasi</item>
+        <item>Deskripsi = Pelukisan</item>
+        <item>Diagnosis = Penaksiran</item>
+        <item>Dialog = Obrolan</item>
+        <item>Dikotomi = Dibagi dua</item>
+        <item>Dinamis = Bergerak maju</item>
+        <item>Disharmoni = Tidak selaras</item>
+        <item>Diskriminasi = Subordinat</item>
+        <item>Disorientasi = Salah tujuan</item>
+        <item>Disparitas = Perbedaan</item>
+        <item>Dispensasi = Pengecualian</item>
+        <item>Ditenggak = Ditelan bulat-bulat</item>
+        <item>Divestasi = Pelepasan</item>
+        <item>Dominasi = Penguasaan</item>
+        <item>Donasi = Bantuan</item>
+        <item>Dosis = Takaran</item>
+        <item>Dursila = Jahat</item>
+        <item>Ebi = Udang kering</item>
+        <item>Ebonit = Kayu hitam</item>
+        <item>Ekonomis = Hemat                       </item>
+        <item>Eksibisi = Perunjukan                  </item>
+        <item>Ekskavasi = Penggalian                 </item>
+        <item>Eksklusif = Tertentu                   </item>
+        <item>Ekspansi = Perluasan                   </item>
+        <item>Eksploitasi = Pendayagunaan            </item>
+        <item>Ekspresi = Aktualisasi diri            </item>
+        <item>Ekstensi = Perluasan                   </item>
+        <item>Ekuilibrium = Keseimbangan             </item>
+        <item>Elaborasi = Penjelasan terperinci      </item>
+        <item>Embargo = Larangan                     </item>
+        <item>Embarkasi = Keberangkatan              </item>
+        <item>Empati = Ikut merasakan                </item>
+        <item>Empiris = Realitas                     </item>
+        <item>Endemi = Wabah                         </item>
+        <item>Epilog = Penutup                       </item>
+        <item>Ereksi = Birahi                        </item>
+        <item>Estetika = Keindahan                   </item>
+        <item>Estimasi = Perkiraan                   </item>
+        <item>Etos = Pandangan hidup                 </item>
+        <item>Evakuasi = Pengungsian                 </item>
+        <item>Evaluasi = Penilaian                   </item>
+        <item>Evokasi = Penggugah rasa               </item>
+        <item>sinonim                                </item>
+        <item>Fauna = Hewan                          </item>
+        <item>Fenomena = Kenyataan                   </item>
+        <item>Fertile = Subur                        </item>
+        <item>File = Arsip                           </item>
+        <item>Fitnah = Rekaan                        </item>
+        <item>Flegmatis = Bertemperamen lamban       </item>
+        <item>Flora = Tanaman                        </item>
+        <item>Forum = Lembaga                        </item>
+        <item>Frekuwensi = Sinyal                    </item>
+        <item>Friksi = Bentrokan                     </item>
+        <item>Frustasi = Putus Harapan               </item>
+        <item>Fundamental = Mendasar                 </item>
+        <item>Fungi = Jamur                          </item>
+        <item>Fusi = Gabugan                         </item>
+        <item>Futuristis = Menuju masa depan         </item>
+        <item>Galat = Keliru                         </item>
+        <item>Gemar = Getol                          </item>
+        <item>Generik = Umum                         </item>
+        <item>Genjah = Cepat berbuah                 </item>
+        <item>Genre = Aliran                         </item>
+        <item>Geothermal = Panas bumi                </item>
+        <item>Getir = Pahit                          </item>
+        <item>Global = Dunia                         </item>
+        <item>Glosarium = Kamus ringkas              </item>
+        <item>Gongseng = Sangrai                     </item>
+        <item>Grasi = Pengampunan hukuman            </item>
+        <item>dari presiden                          </item>
+        <item>Green belt = Jalur hijau               </item>
+        <item>sinonim                                </item>
+        <item>Harmonis = Serasi                      </item>
+        <item>Harta benda = Mal                      </item>
+        <item>Hayati = Hidup                         </item>
+        <item>Hedonisme = Hura-hura                  </item>
+        <item>Hegemoni = Intervensi                  </item>
+        <item>Hepotenusa = Sisi miring               </item>
+        <item>Herbi = Berhubungan dengan             </item>
+        <item>tumbuh-tumbuhan                        </item>
+        <item>Heroisme = Jiwa kepahlawanan           </item>
+        <item>Heterogen = Tidak sejenis              </item>
+        <item>Higienis = Bersih                      </item>
+        <item>Hiperbola = Berlebihan                 </item>
+        <item>Holistik = Keseluruhan                 </item>
+        <item>Homogen = Sejenis                      </item>
+        <item>Huma = Lahan                           </item>
+        <item>Humanisme = Kemanusiaan                </item>
+        <item>                                       </item>
+        <item>Identitas = Bukti diri                 </item>
+        <item>Imbas = Efek                           </item>
+        <item>Imbasan = Isapan                       </item>
+        <item>Implikasi = Akibat                     </item>
+        <item>Implisit = Tersirat                    </item>
+        <item>Impulsif = Spontan                     </item>
+        <item>Indolen = Lesu                         </item>
+        <item>Infiltrasi = Penyusupan                </item>
+        <item>Inheren = Melekat                      </item>
+        <item>Injeksi = Suntik                       </item>
+        <item>Inovasi = Penemuan                     </item>
+        <item>Insentif = Bonus                       </item>
+        <item>Insinuasi = Sindiran                   </item>
+        <item>Insomnia = Tidak bisa tidur            </item>
+        <item>Inspeksi = Pemeriksaan                 </item>
+        <item>Insting = Naluri                       </item>
+        <item>Instruktur = Pelatih                   </item>
+        <item>Instrumental = Fragmental              </item>
+        <item>Interaksi = Hubungan                   </item>
+        <item>Interpelasi = Hak bertanya             </item>
+        <item>Intuisi = Bisikan Hati                 </item>
+        <item>Invasi = Pencaplokan                   </item>
+        <item>Investigasi = Pemeriksaan              </item>
+        <item>44 Kompilasi Soal-soal Aseli CPNS      </item>
+        <item>Ironi = Bertentangan dengan            </item>
+        <item>harapan                                </item>
+        <item>Iterasi = Perulangan                   </item>
+        <item>                                       </item>
+        <item>Jajak = Telaah                         </item>
+        <item>Jargon = Slogan                        </item>
+        <item>Jeda = Jarak                           </item>
+        <item>Jemawa = Angkuh                        </item>
+        <item>Jumantara = Awang-awang                </item>
+        <item>                                       </item>
+        <item>Kaldera = Kawah                        </item>
+        <item>Kampiun = Juara                        </item>
+        <item>Kapital = Modal                        </item>
+        <item>Kapling = Tanah yang sudah             </item>
+        <item>dipetak-petak                          </item>
+        <item>Karakteristik = Ciri                   </item>
+        <item>Karat = Zat oksidasi                   </item>
+        <item>Karnivora = Hewan pemakan daging       </item>
+        <item>Kawat = Dawai                          </item>
+        <item>Kecenderungan = Kesamaan               </item>
+        <item>Kedap = Rapat                          </item>
+        <item>Kekeh = Gelak tawa                     </item>
+        <item>Kelenger = Pingsan                     </item>
+        <item>Keletah = Genit                        </item>
+        <item>Kendala = Hambatan                     </item>
+        <item>Khayalan = Imajinasi                   </item>
+        <item>Kisi-kisi = Terali                     </item>
+        <item>Klarifikasi = Penjelasan               </item>
+        <item>Klimaks = Titik puncak                 </item>
+        <item>Kolaborasi = Kerja sama                </item>
+        <item>Kolong = Rongga di bawah rumah         </item>
+        <item>Komedi = Lawak                         </item>
+        <item>Kompatriot = Rekan senegara            </item>
+        <item>Kompendium = Ringkasan                 </item>
+        <item>Komplotan = Persekutuan                </item>
+        <item>Konduite = Perilaku                    </item>
+        <item>Kondusif = Aman                        </item>
+        <item>Konfiden = Yakin                       </item>
+        <item>Konfrontasi = Pertikaian               </item>
+        <item>Konkaf = Cekung                        </item>
+        <item>Konklusi = Kesimpulan                  </item>
+        <item>Konkret = Nyata                        </item>
+        <item>Konkurensi = Sengketa                  </item>
+        <item>Konsensus = Mufakat                    </item>
+        <item>Konservasi = Perlindungan              </item>
+        <item>Konspirasi = Persekongkolan            </item>
+        <item>Konstan = Kontinu                      </item>
+        <item>Kontemporer = Pada masa ini            </item>
+        <item>Kontiniu = Bersambung                  </item>
+        <item>Kontradiksi = Pertentangan             </item>
+        <item>Konveks = Cembung                      </item>
+        <item>Konvoi = Pergerakan                    </item>
+        <item>Korelasi = Hubungan                    </item>
+        <item>Koreografi = Ilmu tari                 </item>
+        <item>Kreasi = Ciptaan                       </item>
+        <item>Kredibel = Andal                       </item>
+        <item>Kredibilitas = Dapat dipercaya         </item>
+        <item>Krusial = Penting                      </item>
+        <item>Kudeta = Perebutan kekuasaan           </item>
+        <item>Kudus = Suci                           </item>
+        <item>Kuliner = Masakan                      </item>
+        <item>Kulminasi = Klimaks                    </item>
+        <item>                                       </item>
+        <item>Kuno = Antik                           </item>
+        <item>Laba = Keuntungan                      </item>
+        <item>Landskap = Pertamanan                  </item>
+        <item>Latif = Indah                          </item>
+        <item>Legal = Sah                            </item>
+        <item>Liga = Perserikatan                    </item>
+        <item>Loka = Tempat                          </item>
+        <item>Majemuk = Beragam                      </item>
+        <item>Makar = Muslihat                       </item>
+        <item>Makelar = Pialang                      </item>
+        <item>Mal = Harta benda                      </item>
+        <item>Mala = Bencana                         </item>
+        <item>Manunggal = Bersatu                    </item>
+        <item>Mayapada = Dunia                       </item>
+        <item>Mediator = Perantara                   </item>
+        <item>Mekar = Mengembang                     </item>
+        <item>Mengecoh = Mengakali                   </item>
+        <item>Militan = Agresif                      </item>
+        <item>Misteri = Rahasia                      </item>
+        <item>Mistifikasi = Sakralisasi              </item>
+        <item>Mistik = Gaib                          </item>
+        <item>Mitra = Kawan                          </item>
+        <item>Mixer = Aduk-aduk                      </item>
+        <item>Mobilitas = Gerak                      </item>
+        <item>Model = Contoh                         </item>
+        <item>Monoton = Terus-menerus                </item>
+        <item>Motilitas = Gerak                      </item>
+        <item>Mudun = Beradab                        </item>
+        <item>Mutakhir = Terkini                     </item>
+        <item>Mutakhir = Terkini                     </item>
+        <item>Mutilasi = Pemotongan                  </item>
+        <item>Nabati = Botani                        </item>
+        <item>Naratif = Terinci                      </item>
+        <item>Nir = Tidak                            </item>
+        <item>Nisbi = Relatif                        </item>
+        <item>Niscaya = Pasti                        </item>
+        <item>Norma = kebiasaan                      </item>
+        <item>Nuansa = Perbedaan makna               </item>
+        <item>Omnivora = Hewan pemakan daging        </item>
+        <item>dan tumbuh-tumbuhan                    </item>
+        <item>Opas = Pesuruh                         </item>
+        <item>Oral = Berkaitan dengan mulut          </item>
+        <item>Orisinil = Asli                        </item>
+        <item>Ortodok = Konservatif                  </item>
+        <item>Otodidak = Belajar sendiri             </item>
+        <item>Oval = Bulat telur                     </item>
+        <item>Pangkas = Potong                       </item>
+        <item>Paparan = Gambaran                     </item>
+        <item>Paradigma = Kerangka berpikir          </item>
+        <item>Paradoks = Lawan asas                  </item>
+        <item>Paradoksal = Kontras                   </item>
+        <item>Paras = Wajah                          </item>
+        <item>Paripurna = Sempurna                   </item>
+        <item>Partikelir = Swasta                    </item>
+        <item>Paseban = Penghadapan                  </item>
+        <item>Pedagogi = Pengajaran                  </item>
+        <item>Pedoman = Panduan                      </item>
+        <item>Pembatasan = Restriksi                 </item>
+        <item>Pemugaran = Perbaikan                  </item>
+        <item>Pencerahan = Kesadaran                 </item>
+        <item>Perdeo = Gratis                        </item>
+        <item>Perforasi = Perlubangan                </item>
+        <item>Perlop = Cuti                          </item>
+        <item>Pingsan = Kelenger                     </item>
+        <item>Pioner = Perintis                      </item>
+        <item>Plagiator = Penjiplak                  </item>
+        <item>Planning = Rencana                     </item>
+        <item>Poly = Banyak                          </item>
+        <item>Preman = Partikelir                    </item>
+        <item>Premi = Iuran pertanggungan            </item>
+        <item>asuransi                               </item>
+        <item>Preposisi = Kata depan                 </item>
+        <item>Prestise = Martabat                    </item>
+        <item>Pretensi = Pura-pura                   </item>
+        <item>Primer = Utama                         </item>
+        <item>Prominen = Kondang                     </item>
+        <item>Promotor = Penganjur                   </item>
+        <item>Prosedur = Mekanisme                   </item>
+        <item>Proteksi = Perlindungan                </item>
+        <item>Protesis = Buatan                      </item>
+        <item>Rabat = Potongan harga                 </item>
+        <item>Rahib = Pendeta                        </item>
+        <item>Ralat = Pembetulan                     </item>
+        <item>Rambang = Acak                         </item>
+        <item>Rancu = Kacau                          </item>
+        <item>Random = Secara acak                   </item>
+        <item>Rapel = Pembayaran sekaligus           </item>
+        <item>Rapuh = Ringkih                        </item>
+        <item>Ratifikasi = Pengesahan                </item>
+        <item>Referensi = Surat keterangan           </item>
+        <item>Relasi = Rekanan                       </item>
+        <item>Rendezvous = Pertemuan                 </item>
+        <item>Residu = Sisa                          </item>
+        <item>Restriksi = Pembatasan                 </item>
+        <item>Ringkih = Rapuh                        </item>
+        <item>Risi = Khawatir                        </item>
+        <item>Romansa = Kisah cinta                  </item>
+        <item>Rona = Warna                           </item>
+        <item>Sahih = Benar                          </item>
+        <item>Sandang = Pakaian                      </item>
+        <item>Sanksi = Hukuman                       </item>
+        <item>Sapta = Bilangan                       </item>
+        <item>Sasana = Gelanggang                    </item>
+        <item>Selebaran = Risalah                    </item>
+        <item>Semboyan = Slogan                      </item>
+        <item>Serebrum = Otak besar                  </item>
+        <item>Seremoni = Perayaan                    </item>
+        <item>Serikat = Perkumpulan                  </item>
+        <item>Sine qua non = Harus ada               </item>
+        <item>Sinkron = Sesuai                       </item>
+        <item>Sintesis = Buatan                      </item>
+        <item>Somasi = Gugatan                       </item>
+        <item>Sosialisasi = Pengenalan               </item>
+        <item>Spesifik = Khusus                      </item>
+        <item>Sporadis = Jarang                      </item>
+        <item>Stagnasi = Kemacetan                   </item>
+        <item>Standar = Baku                         </item>
+        <item>Statis = Tidak aktif                   </item>
+        <item>Stigma = Cacat                         </item>
+        <item>Strata = Tingkatan                     </item>
+        <item>66 Kompilasi Soal-soal Aseli CPNS      </item>
+        <item>Strategi = Taktik                      </item>
+        <item>Sumbang = Tidak sinkron                </item>
+        <item>Supervisi = Pengawasan                 </item>
+        <item>Sutradara = Pengarah adegan            </item>
+        <item>Swatantra = Otonomi                    </item>
+        <item>Syahdan = Konon                        </item>
+        <item>Ta’aruf = Perkenalan                   </item>
+        <item>Tabiat = Watak                         </item>
+        <item>Talenta = Bakat                        </item>
+        <item>Tandang = Lawatan                      </item>
+        <item>Tanggal = Lepas                        </item>
+        <item>Tangkal = Cegah                        </item>
+        <item>Tanur = Perapian                       </item>
+        <item>Taraf = Tingkat                        </item>
+        <item>Target = Sasaran                       </item>
+        <item>Telatah = Gerak-gerik                  </item>
+        <item>Tendensi = Kecenderungan               </item>
+        <item>Tentatif = Belum pasti                 </item>
+        <item>Termin = Tahap                         </item>
+        <item>Timpang = Tak seimbang                 </item>
+        <item>Tiran = Diktator                       </item>
+        <item>Trail = Kisi-kisi                      </item>
+        <item>Transedental = Kesinambungan           </item>
+        <item>Trobadur = Penyanyi lagu cinta         </item>
+        <item>Vandalisme = Destruksi                 </item>
+        <item>Ventilasi = Jendela                    </item>
+        <item>Verifikasi = Pembuktian                </item>
+        <item>Versus = Lawan                         </item>
+        <item>Wahana = Sarana                        </item>
+        <item>Warta = Berita                         </item>
+    </string-array>
+</resources>

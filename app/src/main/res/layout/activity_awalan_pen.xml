@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.AwalanPen">
+
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Awalan Pen-"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Awalan pen- berfungsi sebagai pembentuk kata nominal ( kata benda). Makna awalan pen- sebagai berikut"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="1)        Menyatakan makna yang (pekerjaanya) melakukan perbuatan yang tersebut pada kata bentuk dasar. Contohnya: pembaca (yang pekerjaannya membaca) dan pelukis (yang pekerjaanya melukis)."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="170dp"
+            android:text="2)        Menyatakan makna alat yang dipakai untuk melakukan perbuatan yang tersebut pada bentuk dasar. Contohnya: pemotong,  pemukul, dan penjahit"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="220dp"
+            android:text="3)      Menyatakan makna yang memiliki sifat yang tersebut pada bentuk dasar. Contohnya:  pemberani,  pemalu, dan penakut.92 Aktif dan Kreatif Berbahasa Indonesia untuk Kelas XI Program Bahasa"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="290dp"
+            android:text="4)      Menyatakan makna menyebabkan. Contohnya:  pengeras, penguat, dan pendingin."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="330dp"
+            android:text="5)      Menyatakan makna yang pekerjaanya melakukan perbuatan. Contohnya: penyair, pengusaha, dan penggergaji."/>
+    </RelativeLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>

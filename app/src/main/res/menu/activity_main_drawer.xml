@@ -38,7 +38,7 @@
         <menu>
             <item
                 android:id="@+id/aboutus"
-                android:icon="@drawable/ic_info_outline_black_24dp"
+                android:icon="@drawable/ic_info"
                 android:title="About Us" />
 
         </menu>

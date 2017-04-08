@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.AwalanTer">
+
+
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Awalan Ter-"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Awalan ter- berfungsi sebagai pembentuk kata kerja pasif. Makna awalan ter- sebagai berikut:"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="1)      Menyatakan ketidaksengajaan atau ketiba-tibaan. Contohnya: terbakar dan terbangun."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="140dp"
+            android:text="2)      Menyatakan aspek perfektif sudah dibagi. Contohnya: terbagi (sudah dibagi) dan tertutup (sudah ditutup)"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="190dp"
+            android:text="3)      Menyatakan kemungkinan. Awalan  ter- yang menyatakan makna ini pada umumnya didahului kata negatif tidak atau tak. Contohnya: tidak ternilai (tidak dapat ternilai)."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2600dp"
+            android:text="4)      Menyatakan makna paling. Contohnya: tertinggi dan terpandai."/>
+    </RelativeLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>
