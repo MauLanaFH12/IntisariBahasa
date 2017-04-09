@@ -8,8 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.Sinonim;
-
 /**
  * Created by MaulanaFH on 4/8/2017.
  */
@@ -32,8 +30,8 @@ public class SinonimFragment extends Fragment {
         return rootView;
     }
     public void Sinonim() {
+
         Intent intent = new Intent(getActivity(), SinonimActivity.class);
         startActivity(intent);
-
     }
 }
