@@ -5,17 +5,17 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="slide_1_title">Hello Friends!</string>
-    <string name="slide_1_desc">Nice To Meet You!</string>
+    <string name="slide_1_title">Hallo Teman</string>
+    <string name="slide_1_desc">Senang Bertemu Dengan Anda</string>
 
     <string name="slide_2_title">Welcome To IntisariBahasa</string>
     <string name="slide_2_desc"></string>
 
-    <string name="slide_3_title">User Friendly</string>
-    <string name="slide_3_desc">Solve your problem to find some word</string>
+    <string name="slide_3_title">Mudah Digunakan</string>
+    <string name="slide_3_desc">Memudahkan Teman Menemukan Suku Kata </string>
 
     <string name="slide_4_title"></string>
-    <string name="slide_4_desc">Lets Start</string>
+    <string name="slide_4_desc">Mari Mulai</string>
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
