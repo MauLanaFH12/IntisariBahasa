@@ -9,8 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.MainActivity"
             android:label="Insibi"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -25,7 +32,9 @@
         <activity android:name=".AwalanBer" />
         <activity android:name=".AwalanDi" />
         <activity android:name=".AwalanPen" />
-        <activity android:name=".AwalanTer"></activity>
+        <activity android:name=".AwalanTer" />
+
+
     </application>
 
 </manifest>
