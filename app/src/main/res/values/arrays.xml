@@ -663,4 +663,18 @@
         <item>Wahana = Sarana                        </item>
         <item>Warta = Berita                         </item>
     </string-array>
+    <string-array name="awalanber">
+        <item>Awalan ber yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Awalan ber- berati mempunyai. Contoh: Kakak ku yang pertama bernama Desma. Bernama = mempunyai nama</item>
+        <item>2. Memakai/menggunakan/mengendarai. Contoh: Setiap ke kantor Ayah selalu berdasi. Berdasi = memakai/menggunakan dasi</item>
+        <item>3. Mengeluarkan/menghasilkan. Contoh: Ayam – ayam peliharaan Nani sudah mulai bertelur. Bertelur = mengeluarkan/menghasilkan telur</item>
+        <item>4. Berada dalam keadaan. Contoh: Amanda sedang berbahagia karena hari ini berulang tahun. Berbahagia = keadaan bahagia.</item>
+        <item>5. Memanggil. Contoh: Diana berbibi kepada Ibu Sundari. Berbibi = memanggil bibi</item>
+        <item>6. Melakukan. Contoh: Anggota siskamling berjaga di setiap pos. Berjaga = melakukan jaga.</item>
+        <item>7. Dalam jumlah. Contoh: Mereka bertiga pergi tanpa memberitahu Pak Deden. Bertiga =  dalam jumlah  tiga</item>
+    </string-array>
+    <string-array name="awalanke">
+        <item>Awalan ber yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        
+    </string-array>
 </resources>

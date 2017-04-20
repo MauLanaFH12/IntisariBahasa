@@ -3,13 +3,13 @@
     <string name="title_activity_welcome">Home Screen</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
-    <string name="start">GOT IT</string>
+    <string name="start">MULAI</string>
 
     <string name="slide_1_title">Hallo Teman</string>
     <string name="slide_1_desc">Senang Bertemu Dengan Anda</string>
 
-    <string name="slide_2_title">Welcome To IntisariBahasa</string>
-    <string name="slide_2_desc"></string>
+    <string name="slide_2_title">Welcome To</string>
+    <string name="slide_2_desc">IntisariBahasa</string>
 
     <string name="slide_3_title">Mudah Digunakan</string>
     <string name="slide_3_desc">Memudahkan Teman Menemukan Suku Kata </string>

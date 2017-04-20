@@ -10,13 +10,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:background="#F5F5F5">
+        android:background="#FF00CCFF">
         <ImageButton
             android:layout_marginLeft="120dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/ber"
             android:background="#F5F5F5"
             android:id="@+id/btBer"/>
         <ImageButton
@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/di"
             android:background="#F5F5F5"
             android:id="@+id/btDi"/>
         <ImageButton
@@ -34,7 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/ke"
             android:background="#F5F5F5"
             android:id="@+id/btKe"/>
         <ImageButton
@@ -43,7 +43,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/me"
             android:background="#F5F5F5"
             android:id="@+id/btMe"/>
         <ImageButton
@@ -52,7 +52,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/pe"
             android:background="#F5F5F5"
             android:id="@+id/btPe"/>
         <ImageButton
@@ -61,7 +61,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/per"
             android:background="#F5F5F5"
             android:id="@+id/btPer"/>
         <ImageButton
@@ -70,7 +70,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/se"
             android:background="#F5F5F5"
             android:id="@+id/btSe"/>
         <ImageButton
@@ -79,7 +79,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="goToAttact"
-            android:src="@drawable/ic_awalan"
+            android:src="@drawable/ter"
             android:background="#F5F5F5"
             android:id="@+id/btTer"/>
     </RelativeLayout>

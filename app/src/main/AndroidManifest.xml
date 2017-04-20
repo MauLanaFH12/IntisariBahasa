@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/icinsibi2"
         android:label="Intisari Bahasa"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/icinsibi2"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.WelcomeActivity">
@@ -18,21 +18,13 @@
         </activity>
         <activity
             android:name="id.sch.smktelkom_mlg.xirpl42022242835.myapplication.MainActivity"
-            android:label="Insibi"
             android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".AntonimActivity" />
         <activity android:name=".SinonimActivity" />
-        <activity android:name=".AwalanMen" />
-        <activity android:name=".AwalanBer" />
-        <activity android:name=".AwalanDi" />
-        <activity android:name=".AwalanPen" />
-        <activity android:name=".AwalanTer" />
+        <activity android:name=".AwalanActivity" />
+        <activity android:name=".AwalanBerActivity"/>
+        <activity android:name=".AwalanKeActivity"/>
 
 
     </application>

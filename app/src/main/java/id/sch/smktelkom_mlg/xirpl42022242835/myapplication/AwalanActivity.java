@@ -20,7 +20,15 @@ public class AwalanActivity extends Activity {
         ib1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(AwalanActivity.this, AwalanBer.class);
+                Intent i = new Intent(AwalanActivity.this, AwalanBerActivity.class);
+                startActivity(i);
+            }
+        });
+        ImageButton ib2 = (ImageButton) findViewById(R.id.btKe);
+        ib2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(AwalanActivity.this, AwalanKeActivity.class);
                 startActivity(i);
             }
         });
