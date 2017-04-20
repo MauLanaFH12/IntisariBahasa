@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        changePage(R.id.nav_antonim);
-        navigationView.setCheckedItem(R.id.nav_antonim);
+        changePage(R.id.home);
+        navigationView.setCheckedItem(R.id.home);
     }
 
     @Override
@@ -78,8 +78,11 @@ public class MainActivity extends AppCompatActivity
     }
     private void changePage(int id){
         Fragment fragment = null;
-
-        if (id == R.id.nav_antonim) {
+        if (id == R.id.home){
+            fragment = new RumahFragment();
+            setTitle("Home");
+        }
+        else if (id == R.id.nav_antonim) {
             fragment = new AntonimFragment();
             setTitle("Antonim");
             // Handle the camera action
@@ -111,6 +114,7 @@ public class MainActivity extends AppCompatActivity
             fragment = new AboutUs();
             setTitle("About US");
         }
+
 
 
         getSupportFragmentManager().beginTransaction()

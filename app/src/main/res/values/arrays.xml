@@ -673,8 +673,53 @@
         <item>6. Melakukan. Contoh: Anggota siskamling berjaga di setiap pos. Berjaga = melakukan jaga.</item>
         <item>7. Dalam jumlah. Contoh: Mereka bertiga pergi tanpa memberitahu Pak Deden. Bertiga =  dalam jumlah  tiga</item>
     </string-array>
+    <string-array name="awalandi">
+        <item>Awalan di yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Dikenai tindakan. Contoh: Sayur itu dipotong. Dipotong = dikenai tindakan pemotongan</item>
+        <item>2. Dibuat atau dijadikan. Contoh: Kelinci itu disatai. Disatai = kelinci dijadikan sate</item>
+        <item>3. Diberi atau dilengkapi. Contoh: Tembok sekolah dicat dengan warna hijau. Dicat = diberi cat</item>
+
+    </string-array>
     <string-array name="awalanke">
-        <item>Awalan ber yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>Awalan ke yang melekat pada kata dasar mempunyai makna/arti sebagai berikut :</item>
+        <item>1. Awalan ke- menyatakan urutan. Contoh: Bagian kelima. Kelima = urtan yang kelima</item>
+        <item>2. Menyatakan kumpulan. Contoh: Keduanya. Keduanya = kumpulan dua (nya)</item>
         
+    </string-array>
+    <string-array name="awalanme">
+        <item>Awalan me-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Melakukan perbuatan. Contoh: Sekar sedang menyanyi di atas panggung. Menyanyi = melakukan perbuatan nyayi</item>
+        <item>2. Melakukan perbuatan dengan alat. Contoh: Ayah memotong kayu dengan gergaji. Memotong = melakukan potong dengan alat.</item>
+        <item>3. Menjadi/dalam keadaan. Contoh: Jalanan ini mulai menurun, berpeganglah! Menurun = dalam keadaan turun.</item>
+        <item>4. Membuat kesan/seolah-olah. Contoh: Atik mengalah demi kebahagiakan adiknya. Mengalah = seolah-olah kalah. </item>
+        <item>5. Menuju ke. Contoh: Perahu itu menepi untuk menurunkan hasil tangkapan. Menepi = menuju ke tepi.</item>
+        <item>6. Mencari/mengumpulkan.  Contoh: Pak Amu mendamar di dalam hutan. Mendamar = mengumpulkan dama</item>
+    </string-array>
+    <string-array name="awalanpe">
+        <item>Awalan pe-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Menyatakan pekerjaan. Contoh: Pamannya adalah pedagang di pasar Kota Jayapura. Pedagang = pekerjaan dagang.</item>
+        <item>2. Alat yang digunakan untuk melakukan tindakan. Contoh: Adik meruncingkan pensil dengan peraut. Peraut = alat yang digunakan untuk meraut</item>
+        <item>3. Menyatakan mempunyai sifat. Contoh: Jangan jadi penakut! Penakut = mempunyai sifat takut.</item>
+        <item>4. Menyatakan penyebab. Contoh: Ibu membeli pemutih untuk mencuci baju adik! Pemutih = penyebab putih</item>
+    </string-array>
+    <string-array name="awalanper">
+        <item>Arti awalan per- antara lain sebagai berikut:</item>
+        <item>1. Membuat jadi lebih. Contoh: Persempit jalan masuknya air di sawah kalian! Persempit = membuat jadi sempit.</item>
+        <item>2. Membagi jadi. Contoh: Satu perempat gajinya disumbangkan untuk fakir miskin. Perempat = membuat jadi empat</item>
+        <item>3. Membuat jadi. Contoh: Jangan perbudak orang-orang! Perbudak = membuat jadi budak</item>
+    </string-array>
+    <string-array name="awalanse">
+        <item> Awalan se-  yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Menyatakan satu. Contoh: Kami  itu berteduh di sebuah pondok bambu yang lusuh. Sebuah = satu buah.</item>
+        <item>2. Menyatakan paling. Contoh: Pedagang itu mengambil untung sebanyak-banyaknya. Sebanyak-banyaknya = paling banyak. </item>
+        <item>3. Menyatakan sama dengan. Contoh: Perjalanan ke Bali tidak sejauh perjalanan ke Kalimantan. Sejauh = sama jauh.</item>
+        <item>4. Menyatakan seluruhnya dalam satu. Contoh: Warga sekampung mengungsi sejak ada berita akan terjadinya banjir. Sekampung = seluruhnya dalam satu kampung.</item>
+    </string-array>
+    <string-array name="awalanter">
+        <item>  Awalan ter- yang melekat pada kata dasar memiliki makna/ arti sebagai berikut :</item>
+        <item>1. Tidak sengaja di....Contoh: Kakinya berdarah karen tertusuk jarum. Tertusuk =  tidak sengaja ditusuk</item>
+        <item>2. Dapat di... Contoh: “Apakah tulisan ini terbaca oleh kalian?” tanya Pak Guru. Terbaca = dapat dibaca</item>
+        <item>3. Paling. Contoh: Lilik adalah pelari tercepat di nomor lari 100 meter. Tercepat = paling cepat</item>
+
     </string-array>
 </resources>

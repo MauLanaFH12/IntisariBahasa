@@ -24,7 +24,13 @@
         <activity android:name=".SinonimActivity" />
         <activity android:name=".AwalanActivity" />
         <activity android:name=".AwalanBerActivity"/>
+        <activity android:name=".AwalanDiActivity"/>
         <activity android:name=".AwalanKeActivity"/>
+        <activity android:name=".AwalanMeActivity"/>
+        <activity android:name=".AwalanPeActivity"/>
+        <activity android:name=".AwalanPerActivity"/>
+        <activity android:name=".AwalanSeActivity"/>
+        <activity android:name=".AwalanTerActivity"/>
 
 
     </application>
