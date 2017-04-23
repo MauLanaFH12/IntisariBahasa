@@ -218,8 +218,7 @@
         <item>Rasionalisme X Empirisme     </item>
         <item>Regresif X Progresif         </item>
         <item>Remeh X Penting              </item>
-        <item>Remisi X Penambahan          </item>
-        <item>hukuman                      </item>
+        <item>Remisi X Penambahan hukuman   </item>
         <item>Revolusi X Evolusi           </item>
         <item>Ritel X Grosir               </item>
         <item>Rivalitas X Persesuaian      </item>
@@ -377,7 +376,6 @@
         <item>Evakuasi = Pengungsian                 </item>
         <item>Evaluasi = Penilaian                   </item>
         <item>Evokasi = Penggugah rasa               </item>
-        <item>sinonim                                </item>
         <item>Fauna = Hewan                          </item>
         <item>Fenomena = Kenyataan                   </item>
         <item>Fertile = Subur                        </item>
@@ -406,15 +404,13 @@
         <item>Grasi = Pengampunan hukuman            </item>
         <item>dari presiden                          </item>
         <item>Green belt = Jalur hijau               </item>
-        <item>sinonim                                </item>
         <item>Harmonis = Serasi                      </item>
         <item>Harta benda = Mal                      </item>
         <item>Hayati = Hidup                         </item>
         <item>Hedonisme = Hura-hura                  </item>
         <item>Hegemoni = Intervensi                  </item>
         <item>Hepotenusa = Sisi miring               </item>
-        <item>Herbi = Berhubungan dengan             </item>
-        <item>tumbuh-tumbuhan                        </item>
+        <item>Herbi = Berhubungan dengan tumbuh-tumbuhan                        </item>
         <item>Heroisme = Jiwa kepahlawanan           </item>
         <item>Heterogen = Tidak sejenis              </item>
         <item>Higienis = Bersih                      </item>
@@ -423,7 +419,6 @@
         <item>Homogen = Sejenis                      </item>
         <item>Huma = Lahan                           </item>
         <item>Humanisme = Kemanusiaan                </item>
-        <item>                                       </item>
         <item>Identitas = Bukti diri                 </item>
         <item>Imbas = Efek                           </item>
         <item>Imbasan = Isapan                       </item>
@@ -447,22 +442,17 @@
         <item>Intuisi = Bisikan Hati                 </item>
         <item>Invasi = Pencaplokan                   </item>
         <item>Investigasi = Pemeriksaan              </item>
-        <item>44 Kompilasi Soal-soal Aseli CPNS      </item>
-        <item>Ironi = Bertentangan dengan            </item>
-        <item>harapan                                </item>
+        <item>Ironi = Bertentangan dengan harapan                                </item>
         <item>Iterasi = Perulangan                   </item>
-        <item>                                       </item>
         <item>Jajak = Telaah                         </item>
         <item>Jargon = Slogan                        </item>
         <item>Jeda = Jarak                           </item>
         <item>Jemawa = Angkuh                        </item>
         <item>Jumantara = Awang-awang                </item>
-        <item>                                       </item>
         <item>Kaldera = Kawah                        </item>
         <item>Kampiun = Juara                        </item>
         <item>Kapital = Modal                        </item>
-        <item>Kapling = Tanah yang sudah             </item>
-        <item>dipetak-petak                          </item>
+        <item>Kapling = Tanah yang sudah dipetak-petak                          </item>
         <item>Karakteristik = Ciri                   </item>
         <item>Karat = Zat oksidasi                   </item>
         <item>Karnivora = Hewan pemakan daging       </item>
@@ -510,7 +500,6 @@
         <item>Kudus = Suci                           </item>
         <item>Kuliner = Masakan                      </item>
         <item>Kulminasi = Klimaks                    </item>
-        <item>                                       </item>
         <item>Kuno = Antik                           </item>
         <item>Laba = Keuntungan                      </item>
         <item>Landskap = Pertamanan                  </item>
@@ -580,8 +569,7 @@
         <item>Planning = Rencana                     </item>
         <item>Poly = Banyak                          </item>
         <item>Preman = Partikelir                    </item>
-        <item>Premi = Iuran pertanggungan            </item>
-        <item>asuransi                               </item>
+        <item>Premi = Iuran pertanggungan asuransi                               </item>
         <item>Preposisi = Kata depan                 </item>
         <item>Prestise = Martabat                    </item>
         <item>Pretensi = Pura-pura                   </item>
@@ -721,5 +709,172 @@
         <item>2. Dapat di... Contoh: “Apakah tulisan ini terbaca oleh kalian?” tanya Pak Guru. Terbaca = dapat dibaca</item>
         <item>3. Paling. Contoh: Lilik adalah pelari tercepat di nomor lari 100 meter. Tercepat = paling cepat</item>
 
+    </string-array>
+
+    <string-array name="majasperb">
+        <item>Majas Perbandingan ialah kata-kata berkias yang menyatakan perbandingan untuk meningkatkan kesan dan juga pengaruhnya terhadap pendengar ataupun pembaca. Ditinjau atau dilihat dari cara pengambilan perbandingannya, Majas Perbandingan terbagi atas : </item>
+        <item>1) Asosiasi atau Perumpamaan. Majas asosiasi atau perumpamaan adalah perbandingan terhadap dua hal yang pada hakikatnya berbeda, tetapi sengaja dianggap sama. Majas ini ditandai oleh penggunaan kata bagai, bagaikan, seumpama, seperti, dan laksana. Berikut ini Espilen Blog sampaikan contoh majas asosiasi : </item>
+        <item>Contoh : Semangatnya keras bagaikan baja, Mukanya pucat bagai mayat, Wajahnya kuning bersinar bagaikan bulan purnama. </item>
+        <item>2) Metafora. Metafora adalah majas yang memberikan ungkapan secara langsung berupa perbandingan analogis. Pemakaian kata atau kelompok kata bukan dengan arti yang sebenarnya, melainkan sebagai lukisan yang berdasarkan persamaan atau perbandingan, misalnya tulang punggung dalam kalimat pemuda adalah tulang punggung negara. Contoh majas metafora seperti berikut ini.</item>
+        <item>Contoh: Engkau belahan jantung hatiku sayangku, Raja siang keluar dari ufuk timur, Jonathan adalah bintang kelas dunia. </item>
+        <item>3) Personifikasi. Personifikasi adalah majas yang membandingkan benda-benda tak bernyawa seolah-olah mempunyai sifat seperti manusia.</item>
+        <item>Contoh: Badai mengamuk dan merobohkan rumah penduduk, Ombak berkejar-kejaran ke tepi pantai, Peluit wasit menjerit panjang menandai akhir dari pertandingan tersebut. </item>
+        <item>4) Alegori. Alegori adalah Menyatakan dengan cara lain, melalui kiasan atau penggambaran. Alegori: majas perbandingan yang bertautan satu dan yang lainnya dalam kesatuan yang utuh.</item>
+        <item>Contoh: Suami sebagai nahkoda, Istri sebagai juru mudi, Perjalanan hidup manusia seperti sungai yang mengalir menyusuri tebing-tebing, yang kadang-kadang sulit ditebak kedalamannya, yang rela menerima segala sampah, dan yang pada akhirnya berhenti ketika bertemu dengan laut.</item>
+        <item>5) Simbolik. Simbolik adalah majas yang melukiskan sesuatu dengan mempergunakan benda, binatang, atau tumbuhan sebagai simbol atau lambang.</item>
+        <item>Contoh: Ia terkenal sebagai buaya darat, Rumah itu hangus dilalap si jago merah, Ia adalah seorang bunga desa</item>
+        <item>6) Metonimia. Metonimia adalah majas yang menggunakan ciri atau lebel dari sebuah benda untuk menggantikan benda tersebut.Pengungkapan tersebut berupa penggunaan nama untuk benda lain yang menjadi merek, ciri khas, atau atribut.</item>
+        <item>Contoh: Di kantongnya selalu terselib gudang garam. (maksudnya rokok gudang garam), Setiap pagi Ayah selalu menghirup kapal api. (maksudnya kopi kapal api), Ayah pulang dari luar negeri naik garuda (maksudnya pesawat)</item>
+        <item>7) Sinekdok. Sinekdok adalah majas yang menyebutkan bagian untuk menggantikan benda secara keseluruhan atau sebaliknya. Majas sinekdokhe terdiri atas dua bentuk berikut.</item>
+        <item>a) Pars pro toto, yaitu menyebutkan sebagian untuk keseluruhan. Contoh: (a) Hingga detik ini ia belum kelihatan batang hidungnya, (b) Per kepala mendapat Rp. 300.000.</item>
+        <item>b) Totem pro parte, yaitu menyebutkan keseluruhan untuk sebagian. Contoh: (a) Dalam pertandingan final bulu tangkis Rt.03 melawan Rt. 07, (b) Indonesia akan memilih idolanya malam nanti. </item>
+        <item>8. Simile: Pengungkapan dengan perbandingan eksplisit yang dinyatakan dengan kata depan dan penghubung, seperti layaknya, bagaikan, " umpama", "ibarat","bak", bagai".</item>
+        <item>Contoh: Kau umpama air aku bagai minyaknya, bagaikan Qais dan Laila yang dimabuk cinta berkorban apa saja. </item>
+    </string-array>
+
+    <string-array name="majaspert">
+        <item>B. Majas Pertentangan. Majas Pertentangan adalah “Kata-kata berkias yang menyatakan pertentangan dengan yang dimaksudkan sebenarnya oleh pembicara atau penulis dengan maksud untuk memperhebat atau meningkatkan kesan dan pengaruhnya kepada pembaca atau pendengar”. Macam-macam Majas Pertentangan dibedakan menjadi berikut.</item>
+        <item>1) Antitesis. Antitesis adalah majas yang mempergunakan pasangan kata yang berlawanan artinya.</item>
+        <item>Contoh: a) Tua muda, besar kecil, ikut meramaikan festival itu, b) Miskin kaya, cantik buruk sama saja di mata Tuhan. </item>
+        <item>2) Paradoks. Paradoks adalah majas yang mengandung pertentangan antara pernyataan dan fakta yang ada.</item>
+        <item> Contoh: a) Aku merasa sendirian di tengah kota Jakarta yang ramai ini, b) Hatiku merintih di tengah hingar bingar pesta yang sedang berlangsung ini. </item>
+        <item>3) Hiperbola. Majas hiperbola adalah majas yang berupa pernyataan berlebihan dari kenyataannya dengan maksud memberikan kesan mendalam atau meminta perhatian.</item>
+        <item> Contoh: a) Suaranya menggelegar membelah angkasa, b) Tubuhnya tinggal kulit pembalut tulang.</item>
+        <item>4) Litotes. Litotes adalah majas yang menyatakan sesuatu dengan cara yang berlawanan dari kenyataannya dengan mengecilkan atau menguranginya. Tujuannya untuk merendahkan diri.</item>
+        <item>Contoh: a) Makanlah seadanya hanya dengan nasi dan air putih saja, b) Mengapa kamu bertanya pada orang yang bodoh seperti saya ini?</item>
+    </string-array>
+
+    <string-array name="majassin">
+        <item>C. Majas Sindiran. Majas Perbandingan ialah kata-kata berkias yang menyatakan sindiran untuk meningkatkan kesan dan pengaruhnya terhadap pendengar atau pembaca”. Majas sindirian dibagi menjadi:</item>
+        <item>1) Ironi. Ironi adalah majas yang menyatakan hal yang bertentangan dengan maksud untuk menyindir seseorang.</item>
+        <item>Contoh: a) Ini baru namana siswa teladan, setiap hari selalu pulang malam. b) Bagus sekali tulisanmu, saking bagusnya sampai tidak dapat Aku baca.</item>
+        <item>2) Sinisme. Sinisme adalah majas yang menyatakan sindiran secara langsung kepada orang lain</item>
+        <item> Contoh : a) Perkataanmu tadi sangat menyebalkan, tidak pantas diucapkan oleh orang terpelajar seperti dirimu. b) Lama-lama aku bisa jadi gila melihat tingkah lakumu yang tidak wajar itu.</item>
+        <item>3) Sarkasme. Sarkasme adalah majas sindiran yang paling kasar. Majas ini biasanya diucapkan oleh orang yang sedang marah.</item>
+        <item>Contoh: a) Mau muntah aku melihat wajahmu, pergi kamu! b) Dasar kerbau dungu, kerja begini saja tidak becus!</item>
+    </string-array>
+
+    <string-array name="majaspen">
+        <item>D. Majas Penegasan. Majas Perbandingan ialah kata-kata berkias yang menyatakan penegasan untuk meningkatkan kesan dan pengaruhnya terhadap pendengar atau pembaca”.Majas penegasan terdiri atas tujuh bentuk berikut.</item>
+    <item>1) Pleonasme
+    Pleonasme adalah majas yang menggunakan kata-kata secara berlebihan dengan maksud menegaskan arti suatu kata.</item>
+    <item>Contoh:
+    a) Semua siswa yang di atas agar segera turun ke bawah.
+    b) Mereka mendongak ke atas menyaksikan pertunjukan pesawat tempur.</item>
+    <item>2) Repetisi
+    Repetisi adalah majas perulangan kata-kata sebagai penegasan.</item>
+    <item>Contoh:
+    a) Dialah yang kutunggu, dialah yang kunanti, dialah yang kuharap.
+    b) Marilah kita sambut pahlawan kita, marilah kita sambut idola kita, marilah kita sambut putra bangsa.</item>
+    <item>3) Paralelisme
+    Paralelisme adalah majas perulangan yang biasanya ada di dalam puisi.</item>
+    <item>Contoh:
+    Cinta adalah pengertian
+    Cinta adalah kesetiaan
+    Cinta adalah rela berkorban</item>
+    <item>4) Tautologi
+    Tautologi adalah majas penegasan dengan mengulang beberapa kali sebuah kata dalam sebuah kalimat dengan maksud menegaskan. Kadang pengulangan itu menggunakan kata bersinonim.</item>
+    <item>Contoh:
+    a) Bukan, bukan, bukan itu maksudku. Aku hanya ingin bertukar pikiran saja.
+    b) Seharusnya sebagai sahabat kita hidup rukun, akur, dan bersaudara.</item>
+    <item>5) Klimaks
+    Klimaks adalah majas yang menyatakan beberapa hal secara berturut-turut dan makin lama makin meningkat.</item>
+    <item>Contoh:
+    a) Semua pihak mulai dari anak-anak, remaja, sampai orang tua pun mengikuti lomba Agustusan.
+    b) Ketua RT, RW, Kepala Desa, Gubernur, bahkan Presiden sekalipun tidak mempunyai berhak untuk mengurusi hal pribadi seseorang.</item>
+    <item>6) Antiklimaks
+    Antiklimaks adalah majas yang menyatakan beberapa hal secara berturut-turut yang makin lama semakin menurun.
+    a) Kepala sekolah, guru, staff sekolah, dan siswa juga hadir dalam pesta perayaan kelulusan itu.
+    b) Di kota dan desa hingga pelosok kampung semua orang merayakan HUT RI ke -62.</item>
+    <item>7) Retorik
+    Retorik adalah majas yang berupa kalimat tanya namun tak memerlukan jawaban. Tujuannya memberikan penegasan, sindiran, atau menggugah.</item>
+    <item>Contoh:
+    a) Kata siapa cita-cita bisa didapat cukup dengan sekolah formal saja?
+    b) Apakah ini orang yang selama ini kamu bangga-banggakan ?</item>
+
+    </string-array>
+
+    <string-array name="peribahasa">
+        <item>air beriak tanda tak dalam > orang yang banyak bicara biasanya kurang ilmunya.</item>
+        <item>air tenang menghanyutkan > orang yang pendiam biasanya banyak ilmunya.</item>
+        <item>asam di darat, garam di laut, bertemu di belanga > kalau sudah jodoh, walaupun jauh bertempat tinggal pasti bertemu juga.</item>
+        <item>ayam bertelur di padi mati kelaparan > orang yang selalu kekurangan, meskipun penghasilannya banyak.</item>
+        <item>air cucuran atap, jatuhnya ke pelimbahan juga > sifat orang tua pasti menurun pada anaknya.</item>
+        <item>air susu dibalas air tuba > kebaikan dibalas kejahatan.</item>
+        <item>ada gula ada semut > dimana ada kesenangan di situlah banyak orang datang.</item>
+        <item>bagai air di atas daun talas > orang yang tidak punya pendirian yang tetap.</item>
+        <item>bagaikan api dengan asap > persahabatan yang abadi</item>
+        <item>bagai anak ayam kehilangan induk > bercerai berai karena kehilangan tumpuan.</item>
+        <item>biarakan anjing menggonggong, kafilah tetap berlalu > biarpun banyak rintangan dalam usaha kita, kita tidak boleh putus asa.</item>
+        <item>bagai kebakaran jenggot > bingung tak karuan.</item>
+        <item>bagai makan buah simalakama, dimakan bapak mati, tidak dimakan ibu mati > melakukn dua pekerjaan yang sama-sama berbahaya.</item>
+        <item>bak pinang dibelah dua > sama benar / serupa benar</item>
+        <item>berguru kepalang ajar, bagai bunga kembang tak jadi > orang belajar haruslah bersungguh-sungguh tidak boleh setengah-setengah.</item>
+        <item>berani karena benar, takut karena salah > orang yang bersalah senantiasa dalam ketakutan.</item>
+        <item>berat sama dipikul, ringan sama dijinjing > sama-sama menderita dan sama-sama bahagia.</item>
+        <item>buruk rupa cermin dibelah > menyalahkan orang lain meskipun dia sendiri yang bersalah.</item>
+        <item>buah yang jatuh tidak jauh dari pohonnya > sifat seorang anak tidak jauh beda dari orang tuanya.</item>
+        <item>bagai mendapat durian runtuh > mendapat keuntungan yang tidak disangka-sangka.</item>
+        <item>bumi tak selebar daun kelor > bumi tak sempit.</item>
+        <item>cupak sepanjang betung, adat sepanjang jalan > hendaklah kita melakukan sesuatu menurut adat dan kebiasaan yang berlaku.</item>
+        <item>cepat kaki , ringan tangan > cekatan dan lekas mengerjakan sesuatu.</item>
+        <item>di luar bagai madu, di dalam bagai empedu > mulutnya manis tetapi hatinya jahat.</item>
+        <item>dalam laut dapat diduga, dalam hati siapa tahu > pikiran orang tidak dapat diketahui.</item>
+        <item>dimana bumi berpijak, disitu langit dijunjung > dimana kita tinggal, hendaklah menurut adat istiadat di negeri itu.</item>
+        <item>diam seribu bahasa > diam sama sekali.</item>
+        <item>duduk sama rendah, berdiri sama tinggi > sejajar kedudukannya ( martabat / tingkatannya )</item>
+        <item>esa hilang dua terbilang > berusaha harus dengan keras hati sampai maksud tercapai.</item>
+        <item>gajah dipandang karena gadingnya, harimau dipandang karena belangnya > manusia dipandang dengan segala yang ada pada dirinya.</item>
+        <item>gajah berjuang sama gajah, pelanduk mati di tengah-tengah > jika terjadi pertengkaran antar orang besar, maka rakyat yang akan menderita.</item>
+        <item>gali lubang tutup lubang > membuat hutang baru untuk menutup hutang lama.</item>
+        <item>guru makan berdiri, murid kencing berlari > dalam segala hal murid akan selalu mencontoh gurunya, jika guru berbuat yang tidak patut maka murid akan berbuat yang jauh lebih buruk.</item>
+        <item>hanya sampai dibibir saja > apa yang dikatakan tidak keluar dari isi hatinya.</item>
+        <item>hemat pangkal kaya, rajin pangkal pandai > kalau kita ingin kaya hendaklah menabung (berhemat), kalau kita ingin pandai hendaklah rajin belajar.</item>
+        <item>harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama > orang baik akan selalu meninggalkan nama baik, sedamngkan orang jahat akan meninggalkan nama buruk.</item>
+        <item>habis manis sepah dibuang > setelah tidak berguna lagi lalu dibuang tanpa dipedulikan lagi.</item>
+        <item>hujan emas di negeri orang, hujan batu di negeri sendiri > sebaik-baik negeri orang tidak sebaik negeri sendiri.</item>
+        <item>ilmu padi makin berisi makin merunduk > makin banyak pengetahuan makin merendahkan diri.</item>
+        <item>jauh di mata dekat di hati > sekalipun berjauhan, tapi harus selalu ingat - mengingat.</item>
+        <item>jinak-jinak merpati hendak ditangkap ia pun terbang > seorang perempuan yang pura-pura mau tetapi sebenarnya tidak mau.</item>
+        <item>karena tak kenal, maka tak sayang > kita harus mengenal terlebih dahulu baru bisa mengetahui baik buruknya.</item>
+        <item>ke bukit sama mendaki, ke lurah sama menuruni > sama-sama senang, sama-sama susah.</item>
+        <item>kuman di seberang lautan tampak, gajah di pelupuk mata tidak tampak > kesalahan orang sedikit saja tampak tetapi kesalah sendiri tidak disadari.</item>
+        <item>kunyah dahulu, baru telan > pikirkan dahulu sebaik-baiknya, baru dikerjakan.</item>
+        <item>kecil-kecil cabe rawit > kecil tetapi cerdik (membahayakan).</item>
+        <item>lain ladang lain belalang, lain lubuk lain ikannya > tiap-tiap negeri berlainan adat istiadatnya.</item>
+        <item>lidah tak bertulang > orang muda mencela orang lain, dengan tidak berpikir terlebih dahulu.</item>
+        <item>lepas dari mulut buaya masuk ke mulut harimau > sama - sama berbahaya.</item>
+        <item>lempar batu sembunyi tangan > melakukan sesuatu tetapi kemudian berdiam diri seolah - olah tidak tahu menahu.</item>
+        <item>layang-layang putus talinya > seseorang yang putus harapan sudah tidak berdaya lagi hanya berserah kepada nasib.</item>
+        <item>mati ikan karena umpan, mati saya karena budi > kita bisa celaka karena tingkah laku yang kurang baik.</item>
+        <item>menjilat air ludah > orang yang tidak mempunyai malu.</item>
+        <item>menyingsingkan lengan baju > bekerja keras.</item>
+        <item>malu bertanya sesat di jalan > orang yang malu bertanya kepada orang yang lebih pandai akan merugi.</item>
+        <item>memancing di air keruh > mencari keuntungan dalam perselisihan orang.</item>
+        <item>menegakkan benang basah > melakukan pekerjaan yang mustahil dilakukan.</item>
+        <item>masuk kandang kambing mengembik, masuk kandang kerbau menguak > menyesuaikan diri dengan tempat dan keadaan.</item>
+        <item>masuk dari kuping kiri, keluar lewat kuping kanan > tidak mendengarkan nasehat.</item>
+        <item>nasi sama ditanak, kerak sama dimakan > sama-sama bekerja dan memungut hasil.</item>
+        <item>nila setitik rusak susu sebelanga > karena kesalahan yang kecil hilang kebaikan yang telah diperbuat.</item>
+        <item>orang haus diberi air > memberi pertolongan kepada seseorang yang sungguh mengharapkan bantuan.</item>
+        <item>ombak yang kecil jangan diabaikan > perkara yang kecil yang mungkin mendatangkan bahaya jangan diabaikan.</item>
+        <item> pagar makan tanaman > orang yang dipercaya menjaga sesuatu, tetapi ia sendiri yang merusaknya.</item>
+        <item>patah tumbuh hilang berganti > suatu jabatan , apabila yang menjabat berhenti, diganti dengan yang baru.</item>
+        <item>pucuk dicinta ulam pun tiba > yang diperoleh sesuai engan yang diharapkan.</item>
+        <item>rambut sama hitam, hati masing - masing > setiap orang mempunyai kesenangan sendiri-sendiri.</item>
+        <item>seperti kuda lepas pingitan > orang yang sangat gembira karena lepas dari kungkungan.</item>
+        <item>senjata makan tuan > binasa karena tipu daya diri sendiri.</item>
+        <item>sambil menyelam minum air > mendapatkan suatu keuntungan , masih dapat mencari keuntungan yang lain.</item>
+        <item>selama hayat dikandung badan > selama kita masih hidup.</item>
+        <item>si cebol hendak mencapai bulan > menghendaki sesuatu yang mustahil tercapai.</item>
+        <item>sekali rengkuh dayung, dua tiga pulau terlampaui > sekali melakukan pekerjaan beberapa maksud tercapai.</item>
+        <item>seperti kerbau dicocok hidung > selalu menurut saja karena kebodohannya.</item>
+        <item>seperti katak dalam tempurung > sangat picik pengetahuan/makin kurang luas pandangannya.</item>
+        <item>tidak pasah kena pisau, tak sakit kena alu > orang yang sangat tabah menghadapi cobaan.</item>
+        <item>tak ada laut yang tak berombak > tiap-tiap pekerjaan ada resikonya.</item>
+        <item>tak ada gading yang tak retak > tidak ada sesuatu yang tiada cacatnya.</item>
+        <item>takkan lari gunung dikejar, hilang kabut tampaklah ia > jangan tergesa-gesa mengerjakan sesuatu yang telah pasti.</item>
+        <item>udang tak tahu di bungkuknya, orang tak tahu di buruknya > orang buruk yang menyangka dirinya bagus</item>
+        <item>utang emas dapat dibayar, utang budi dibawa mati > kebaikan orang akan diingan selama-lamanya.</item>
     </string-array>
 </resources>

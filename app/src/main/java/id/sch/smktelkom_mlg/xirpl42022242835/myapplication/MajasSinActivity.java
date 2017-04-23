@@ -1,10 +1,5 @@
 package id.sch.smktelkom_mlg.xirpl42022242835.myapplication;
 
-/**
- * Created by Izza on 17/04/2017.
- */
-
-
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -13,24 +8,28 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.adapter.AwalanBerAdapter;
-import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.AwalanBer;
+import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.adapter.MajasSinAdapter;
+import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.MajasSin;
 
-public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAdapter.IAwalanBerAdapter {
+/**
+ * Created by Angga on 4/23/2017.
+ */
 
-    ArrayList<AwalanBer> mList = new ArrayList<>();
+public class MajasSinActivity extends AppCompatActivity implements MajasSinAdapter.IMajasSinAdapter {
 
-    AwalanBerAdapter mAdapter;
+    ArrayList<MajasSin> mList = new ArrayList<>();
+
+    MajasSinAdapter mAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.awalan_ber_main);
+        setContentView(R.layout.majas_sin_main);
 
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.awalanber);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.majassin);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(layoutManager);
-        mAdapter = new AwalanBerAdapter(this, mList);
+        mAdapter = new MajasSinAdapter(this, mList);
         recyclerView.setAdapter(mAdapter);
 
         fillData();
@@ -39,10 +38,10 @@ public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAda
 
     private void fillData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.awalanber);
+        String[] arJudul = resources.getStringArray(R.array.majassin);
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new AwalanBer(arJudul[i]));
+            mList.add(new MajasSin(arJudul[i]));
         }
         mAdapter.notifyDataSetChanged();
     }
@@ -53,4 +52,3 @@ public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAda
 
     }
 }
-

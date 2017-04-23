@@ -1,10 +1,5 @@
 package id.sch.smktelkom_mlg.xirpl42022242835.myapplication;
 
-/**
- * Created by Izza on 17/04/2017.
- */
-
-
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -13,24 +8,24 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.adapter.AwalanBerAdapter;
-import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.AwalanBer;
+import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.adapter.MajasPerbAdapter;
+import id.sch.smktelkom_mlg.xirpl42022242835.myapplication.model.MajasPerb;
 
-public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAdapter.IAwalanBerAdapter {
+public class MajasPerbActivity extends AppCompatActivity implements MajasPerbAdapter.IMajasPerbAdapter {
 
-    ArrayList<AwalanBer> mList = new ArrayList<>();
+    ArrayList<MajasPerb> mList = new ArrayList<>();
 
-    AwalanBerAdapter mAdapter;
+    MajasPerbAdapter mAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.awalan_ber_main);
+        setContentView(R.layout.majas_perb_main);
 
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.awalanber);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.majasperb);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(layoutManager);
-        mAdapter = new AwalanBerAdapter(this, mList);
+        mAdapter = new MajasPerbAdapter(this, mList);
         recyclerView.setAdapter(mAdapter);
 
         fillData();
@@ -39,10 +34,10 @@ public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAda
 
     private void fillData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.awalanber);
+        String[] arJudul = resources.getStringArray(R.array.majasperb);
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new AwalanBer(arJudul[i]));
+            mList.add(new MajasPerb(arJudul[i]));
         }
         mAdapter.notifyDataSetChanged();
     }
@@ -53,4 +48,3 @@ public class AwalanBerActivity extends AppCompatActivity implements AwalanBerAda
 
     }
 }
-
