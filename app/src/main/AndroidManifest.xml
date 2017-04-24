@@ -37,6 +37,7 @@
         <activity android:name=".MajasSinActivity"/>
         <activity android:name=".MajasPertActivity"/>
         <activity android:name=".PeribahasaActivity"/>
+        <activity android:name=".KDActivity" />
 
 
     </application>

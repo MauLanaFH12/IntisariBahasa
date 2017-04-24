@@ -877,4 +877,52 @@
         <item>udang tak tahu di bungkuknya, orang tak tahu di buruknya > orang buruk yang menyangka dirinya bagus</item>
         <item>utang emas dapat dibayar, utang budi dibawa mati > kebaikan orang akan diingan selama-lamanya.</item>
     </string-array>
+
+    <string-array name="katadasar">
+        <item>Pengertian Kata Dasar</item>
+        <item>Kata dasar merupakan satuan bahasa terkecil yang memiliki makna, kata tersebut belum mengalami penambahan atau perubahan bentuk yang mengakibatkan perubahan makna. Dengan pengertian lain bahawa kata dasar ialah kata yang belum di beri imbuhan dan kata yang menjadi dasar awal pembentukan kata yang lebih besar.</item>
+        <item>Kata dasar ialah kata yang paling sederhana yang belum memiliki imbuhan, juga dapat dikelompokkan sebagai bentuk asal “tunggal” dan bentuk dasar “kompleks”.</item>
+
+        <item>Fungsi Kata Dasar</item>
+        <item>Fungsi kata dasar sendiri ialah sebagai penunjang pemaknaan dan kegunaan dari imbuhan termasuk fungsi gramatikal. Kata dasar makan termasuk golongan kata kerja, setelah mendapat afiks -an menjadi makanan, kata tersebut golongan kata benda.</item>
+        <item>Jelas bawah disini fungsi kata dasar sendiri ialah penunjang pembentukan fungsi dari afiks -an yaitu sebagai pembentuk kata benda.</item>
+
+        <item>Contoh Kata Dasar</item>
+
+        <item>Sapu ialah kata dasar yang memiliki makna sebagai kata benda, setelah mendapat awalan me-, maka katanya akan berubah, begitu pula dengan makananya. Sapu mendapat awalan me-, akan menjadi menyapu “huruf S akan luluh” yang berarti melakukan kegiatan membersihkan ruangan. Contoh kalimat:</item>
+        <item>1. Ani menyapu halaman rumahnya dengan sapu.</item>
+        <item>2. Jono mendapatkan menyapu pekerangan sekolah menggunakan sapu lidi.</item>
+        <item>3. Sapu digunakan untuk menyapu tempat yang kotor.</item>
+
+        <item>Pulang ialah kata dasar yang memiliki arti kembali ke tempat asal. Setelah mendapat akhiran -kan, maka kata pulang akan berunah bentuk dan berubah makna. Kata dasar pulang mendapat akhiran -kan akan menjadi pulangi yang berarti menyuruh atau kata dasar pulang yang mendapatkan awalan dan akhiran me- dan -kan. Contoh kalimat:</item>
+        <item>1. Pulangkan mainan yang kamu pinjam kemarin!</item>
+        <item>2. Ani datang untuk memulangkan mainan yang kemarin ia pinjam.</item>
+        <item>3. Joni pulang untuk memulangkan motor yang ia pinjam.</item>
+
+        <item>Warna ialah kata dasar akan memiliki makna yang berbeda bila mendapat awalan dan akhiran. Contoh kalimat:</item>
+        <item>1. Ani memilih warna kuning untuk bahan baju pestanya.</item>
+        <item>2. Ani mewarnai buku gambarnya dengan warna kuning.</item>
+        <item>3. Diwarnainya buku tulis itu dengan pena warna merah.</item>
+
+        <item>Kata dasar jatuh yang mendapatkan imbuhan akan memiliki makna yang berbeda dari kata dasarnya. Contoh kalimat:</item>
+        <item>1. Ani jatuh ketika menaiki tangga.</item>
+        <item>2. Ani menjatuhkan bukunya tepat dihadapanku.</item>
+        <item>3. Buku Ani dijatuhkan tepat di depanku.</item>
+
+        <item>Kata dasar duduk akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Nona duduk di bangku paling depan di kelap IPA.</item>
+        <item>2. Nona menduduki peringkat satu di kelas IPA.</item>
+        <item>3. Kursi Nona diduduki oleh Rido sewaktu Nona tidak masuk sekolah.</item>
+
+        <item>Kata dasar tinggal akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Luna tinggal sendirian di rumah kontrakan.</item>
+        <item>2. Luna meninggal dua tahun yang lalu karena kanker otak.</item>
+        <item>3. Luna ditinggal oleh kedua orangtuanya saat ia masih kecil.</item>
+
+        <item>Kata dasar jual akan menjadi berubah makna jika mendapatkan imbuhan. Contoh kalimat:</item>
+        <item>1. Aldi menjual bibit jagung dengan harga yang murah.</item>
+        <item>2. Bibit jagung aldi terjual habis kemarin sore.</item>
+        <item>3. Aldi menjualkan barang dagangan Rindu hingga habis.</item>
+
+    </string-array>
 </resources>
