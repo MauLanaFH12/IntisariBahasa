@@ -31,6 +31,12 @@
         <activity android:name=".AwalanPerActivity"/>
         <activity android:name=".AwalanSeActivity"/>
         <activity android:name=".AwalanTerActivity"/>
+        <activity android:name=".MajasActivity"/>
+        <activity android:name=".MajasPenActivity"/>
+        <activity android:name=".MajasPerbActivity"/>
+        <activity android:name=".MajasSinActivity"/>
+        <activity android:name=".MajasPertActivity"/>
+        <activity android:name=".PeribahasaActivity"/>
 
 
     </application>
