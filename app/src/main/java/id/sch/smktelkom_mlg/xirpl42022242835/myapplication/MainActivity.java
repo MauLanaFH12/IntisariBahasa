@@ -132,9 +132,6 @@ public class MainActivity extends AppCompatActivity
             fragment = new SinonimFragment();
             setTitle("Sinonim");
 
-        } else if (id == R.id.search) {
-            fragment = new SearchFragment();
-            setTitle("Search");
 
         }else if (id == R.id.aboutus){
             fragment = new AboutUs();

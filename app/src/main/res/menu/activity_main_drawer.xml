@@ -31,10 +31,6 @@
             android:id="@+id/sinonim"
             android:icon="@drawable/ic_drag_handle_black_24dp"
             android:title="Sinonim" />
-        <item
-            android:id="@+id/search"
-            android:icon="@drawable/ic_search_black_24dp"
-            android:title="Search" />
     </group>
 
     <item android:title="About">
