@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity
 
 
         }else if (id == R.id.aboutus){
-            fragment = new AboutUs();
+            fragment = new AboutFragment();
             setTitle("About US");
         }
 
